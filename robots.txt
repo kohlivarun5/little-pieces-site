@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kohlivarun5.github.io/little-pieces-site/sitemap.xml
